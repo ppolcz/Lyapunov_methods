@@ -1,0 +1,6 @@
+[submodule "submodules/SOSTOOLS"]
+	path = submodules/SOSTOOLS
+	url = https://github.com/jd-anderson/SOSTOOLS
+[submodule "submodules/FTools"]
+	path = submodules/FTOOLS
+	url = git@github.com:ppolcz/FinslerTools.git
